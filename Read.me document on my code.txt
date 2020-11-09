@@ -1,0 +1,22 @@
+Readme file for coding project:
+
+The project requirement is to design and build a software system using a programming language. 
+The code i have created is an algorithm which processes a data source. The data source i chosen is a CSV file. The code written enables the CSV file to be
+transfered onto python, read, and parsed into a readable format. The idea used for my CSV file is a list pf headings as follows: name,monthly income,total
+expenses and savings. Under these is information about each indivudual, specific to each heading. The code opens the csv file, parses and reads the contents, 
+then presents each line of the csv file, which then converts into a sentenced format readable for humans. 
+
+References:
+
+Python(2020) CSV File Reading and Writing Python 3.9.0 documentation. 
+Available at: https://docs.python.org/3/library/csv.html (Accessed: 8 November 2020).
+
+BigCommerce(2020) What is a .CSV file and what does it mean for my ecommerce business?
+Available at: https://www.bigcommerce.co.uk/ecommerce-answers/what-csv-file-and-what-does-it-mean-my-ecommerce-business/ (Accessed: 9 November 2020).
+
+GeeksforGeeks(2016) Working with csv files in Python
+Available at: https://www.geeksforgeeks.org/working-csv-files-python/ (Accessed: 9 November 2020).
+
+Guru99(2020) Reading and Writing CSV Files in Python using CSV Module & Pandas
+Available at: https://www.guru99.com/python-csv.html (Accessed: 9 November 2020).
+ 
