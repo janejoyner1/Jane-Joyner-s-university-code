@@ -1,0 +1,26 @@
+
+          
+Results / output when code is run:
+
+   
+            The chart shows the name, monthly income, total expenses, total savings
+	Stuart's monthly income is Â£1400, his total expenses are Â£400, so his total savings areÂ£1000.
+
+The chart shows the name, monthly income, total expenses, total savings
+	Megan's monthly income is Â£2422, her total expenses are Â£825, so her total savings are Â£1597 .
+
+ The chart shows the name,monthly income,total expenses,total savings
+	Bob's monthly income is Â£6550, his total expenses are Â£3350, so his total savings are Â£3200.
+
+Accoring to the charts, Bob makes the highest savings overall. 
+
+The total income of all 3 indivuals is £10,372.
+
+
+This is a list of expenses unique to each individual.
+{'name': 'Stuart', 'biggest expense': 'phone bill', 'smallest expense': 'food shop'}
+{'name': 'Megan', 'biggest expense': 'car insurance', 'smallest expense': 'petrol'}
+{'name': 'Bob', 'biggest expense': 'mortgage', 'smallest expense': "public transport'"}
+        
+    
+            
